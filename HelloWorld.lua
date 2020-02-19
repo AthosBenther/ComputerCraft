@@ -1,1 +1,1 @@
-return "Hello World";
+write("Hello World");
